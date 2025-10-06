@@ -1,5 +1,5 @@
 # EX - 6 Implementation Of Identity Management (Amazon IAM) For Your Team
-
+AMRUTHA (212222110004)
 ---
 
 ## Aim
